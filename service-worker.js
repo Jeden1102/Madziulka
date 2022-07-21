@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Madziulka/precache-manifest.23bc6eb4274decf2d40d8dbfe09fac2f.js"
+  "/precache-manifest.ccea8d4561c4dc63b425da5c678d1ac1.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "project"});
+workbox.core.setCacheNameDetails({prefix: "DlaMadziulki"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
