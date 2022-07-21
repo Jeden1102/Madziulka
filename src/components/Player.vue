@@ -3,10 +3,10 @@
         <div class="rounded-md">
           
             <audio ref="audio" controls hidden>
-            <source :src="`../assets/songs/${currentSong.mp3}`" type="audio/ogg">
+            <source :src="`assets/songs/${currentSong.mp3}`" type="audio/ogg">
             </audio>
             <div class="card h-96 bg-white p-2 lg:p-6 rounded-md">
-            <img class="w-full  h-full  lg:w-96 relative" :src="`../assets/covers/${currentSong.img}`" alt="">
+            <img class="w-full  h-full  lg:w-96 relative" :src="`assets/covers/${currentSong.img}`" alt="">
               <v-slider
                 class="w-full"
                   max="100"
@@ -67,7 +67,7 @@
                         :key="i"
                         class="mt-1"
                         >
-                        <img :src="`../assets/covers/${song.img}`" class="w-20 h-20" alt="">
+                        <img :src="`assets/covers/${song.img}`" class="w-20 h-20" alt="">
                         <v-list-item-content>
                             <v-list-item-title v-text="song.title"></v-list-item-title>
                         </v-list-item-content>
