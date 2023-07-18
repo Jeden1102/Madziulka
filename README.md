@@ -1,24 +1,22 @@
-# project
+# Building a Music Player in VUE.JS & Tailwind CSS
 
-## Project setup
-```
-npm install
-```
+# Youtube video
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Here is the youtube video for the walkthrough [https://youtu.be/BXyHeuvBttc](https://youtu.be/BXyHeuvBttc)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# VueJS
 
-### Lints and fixes files
-```
-npm run lint
-```
+- VueJS Docs - [https://vuejs.org/v2/guide/](https://vuejs.org/v2/guide/)
+- Vue cli - [https://cli.vuejs.org/guide/installation.html](https://cli.vuejs.org/guide/installation.html)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# TailwindCSS
+
+- TailwindCSS Docs - [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
+
+# Website & links
+
+- My website - [http://manojsinghnegi.com/](http://manojsinghnegi.com/)
+- Follow me on medium - [https://medium.com/@manojsinghnegi](https://medium.com/@manojsinghnegi)
+- Follow me on Twitter - [https://twitter.com/manojnegiwd](https://twitter.com/manojnegiwd)
+
+- Recraft Relic website - [https://recraftrelic.com/](https://recraftrelic.com/)
